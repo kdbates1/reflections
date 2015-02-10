@@ -12,3 +12,7 @@ When multiple programmers are using the same master repoistory. Seperate branche
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is one new branch with changes from both of the branches. A diagram helps with a visual to show everything that will be icluded in the merge.
+
+What are the pros and cons of GitÎéÎ÷s automatic merging vs. always doing merges manually?
+Pro - less work, easier
+Con - conflicts 

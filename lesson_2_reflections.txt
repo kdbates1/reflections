@@ -10,4 +10,5 @@ You can git diff which will compare the working directory with the staging area.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When multiple programmers are using the same master repoistory. Seperate branches would keep the files organized.
 
-
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is one new branch with changes from both of the branches. A diagram helps with a visual to show everything that will be icluded in the merge.

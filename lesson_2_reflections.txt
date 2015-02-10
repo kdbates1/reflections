@@ -1,2 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates a new respositoiry structor in the current directory. You need to do that to store your files for a particular project. The connits will based on the new repository data.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area stores the changes you have staged. The working directory are the files that are currenlty being worked. The value i think this adds is that it allows you to stage test files before actually committing them to the repository.
+
+

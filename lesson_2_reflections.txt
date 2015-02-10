@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates a new respositoiry structor in the current directory. You need to do that to store your files for a particular project. The connits will based on the new repository data.

@@ -15,3 +15,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 1. It would be hard to do now that I see it done through Git Hub. You would have to ask your coworkers about changes they are making to a particular file. 
 2. You would have to wait until that file was not in use
 3. You would have to be careful not to over write changes made by cowrokers
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+1. You would want to use merge into a seperate branch if you r code needs to be approved beor its merged.
+2. Benefit to this approach is that you have coworkers who can take a second look at the new code for accuracy
+3. Benefit of going stright to the master branch would be wuicker commits.

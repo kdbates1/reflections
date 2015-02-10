@@ -6,10 +6,12 @@ Why might you want to always pull changes manually rather than having Git automa
 1. Pulling chnages manually allows you more control of what exactly you are pulling down to the local copy. You may not want a particular change on the remote to be pulled down.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
-Clones are exact copies of each other, Fork is a GitHub expression when cloning. Branch is a offshoot of the origunal
+1. Clones are exact copies of each other, Fork is a GitHub expression when cloning. Branch is a offshoot of the origunal
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-It allows you to be able to go back to the last good code if you need to 
+1. It allows you to be able to go back to the last good code if you need to 
 
-
-
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+1. It would be hard to do now that I see it done through Git Hub. You would have to ask your coworkers about changes they are making to a particular file. 
+2. You would have to wait until that file was not in use
+3. You would have to be careful not to over write changes made by cowrokers
